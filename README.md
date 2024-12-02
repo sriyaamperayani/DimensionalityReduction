@@ -4,7 +4,7 @@
 
 ## Colab links: 
 ### Dimensionality Reduction Techniques: https://colab.research.google.com/drive/1r4-h-uGxbJ_f54OCxXDzpijJdjD5BW8M?usp=sharing
-### Dimensionality Reduction using Data Bricks: https://colab.research.google.com/drive/1sW1oSuNQpGQ48uVVS4WUl2m3Twt1cdM_?usp=sharing
+### Dimensionality Reduction using Data Bricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3771171209066087/4327013100957085/1964591634214885/latest.html
 
 ## Insights from different Dimensionality Reduction Techniques:
 
